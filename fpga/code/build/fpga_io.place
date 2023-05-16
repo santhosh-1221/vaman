@@ -1,0 +1,6 @@
+#Block Name  x   y   z    pcf_line
+#----------- --  --  -    ----
+$iopadmap$fpga.optiona  24   3  0  # set_io optiona        59
+$iopadmap$fpga.optionb  26   3  0  # set_io optionb        57
+$iopadmap$fpga.optionc  28   3  0  # set_io optionc        56
+$iopadmap$fpga.optiond  30   3  0  # set_io optiond        55
